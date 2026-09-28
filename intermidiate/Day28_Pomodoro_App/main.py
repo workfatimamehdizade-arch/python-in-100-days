@@ -85,8 +85,5 @@ button2.grid(column=3,row=3)
 button1.grid(column=1,row=3)
 
 
-
-
-
 window.mainloop()
 
